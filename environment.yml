@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.1
+  - r-tidyverse
+  - r-shiny
+  - r-shinythemes
+  - r-dt
+  - r-shinycssloaders
+  - r-foreign
+  - r-shinyjs
